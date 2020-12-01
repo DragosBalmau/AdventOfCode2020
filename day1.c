@@ -1,3 +1,9 @@
+/*
+ *
+ * https://adventofcode.com/2020/day/1
+ *
+ */
+
 #include <stdio.h>
 #include <malloc.h>
 
